@@ -15,3 +15,6 @@ ipyleaflet is a Python library that brings the power of interactive maps into Ju
 
 ## Conclusion
 ipyleaflet is an excellent choice for anyone working with geospatial data in Python, offering a rich set of features for interactive mapping directly in Jupyter notebooks. Its ease of use and interactivity make it a go-to tool for creating engaging, data-driven maps.
+
+## For detailed usage instructions, examples, and advanced features, please visit the file here:
+👉 https://docs.google.com/document/d/10g_7e_oCtgSn0xx64h5t2J3XPA7Vs9mIApfqq8m6ons/edit?usp=sharing
